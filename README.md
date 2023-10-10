@@ -1,5 +1,6 @@
 # NGcodeX Community Hacktoberfest
 
+![NGcodeX Baner](https://github.com/NGcodeX/NGcodeX-Hacktoberfest/blob/main/.github/workflows/ngcodexandGDSC.jpg?raw=true)
 Welcome to the NGcodeX Hacktoberfest repository! 🚀
 
 ## How to Contribute
@@ -11,6 +12,7 @@ Thank you for participating in Hacktoberfest with NGcodeX! Follow these steps to
 ### 1. Fork the Project
 
 Click the "Fork" button at the top right of this page to create a copy of this project in your GitHub account.
+![1](https://github.com/NGcodeX/NGcodeX-Hacktoberfest/blob/main/.github/workflows/1ng.PNG?raw=true)
 
 ### 2. go to the src folder, then to student-contribution.
 
@@ -73,3 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for contributing to NGcodeX's Hacktoberfest! Happy coding! 🎉
+![EndEvents](https://github.com/NGcodeX/NGcodeX-Hacktoberfest/blob/main/.github/workflows/ngcodexwebsiteevents.PNG?raw=true)
